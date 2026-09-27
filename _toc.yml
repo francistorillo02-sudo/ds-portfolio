@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file: Torillo_Laboratory Task 2
+  - file: Torillo_Laboratory Task 3
+  - file: Torillo_Laboratory Task 4
+  - file: Torillo_Laboratory Task 5
+  - file: Torillo_Laboratory Task 6

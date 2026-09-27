@@ -1,0 +1,21 @@
+# Book settings
+title: Francis Rey C. Torillo - Data Science Portfolio
+author: Francis Rey C. Torillo
+logo: "" # You can add a path to an image file if you want a logo
+
+# Execution settings - Tell Jupyter Book not to re-run notebooks
+execute:
+  execute_notebooks: "off"
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/francistorillo02-sudo/ds-portfolio.git  # Replace with your actual GitHub repo URL
+  path_to_docs: ""                              # Optional path to your book source
+  branch: main                                  # The branch of your repository
+
+# Add buttons to your book sidebar
+html:
+  use_edit_page_button: false
+  use_source_button: true
+  use_repository_button: true
+  use_download_button: true
